@@ -7,11 +7,14 @@ Collection
 
 ####Website & Blog
 
-[CoreServlets](http://coreservlets.com/)
-[ProgrammerCreek](http://www.programcreek.com/)
+* [CoreServlets](http://coreservlets.com/)
+* [ProgrammerCreek](http://www.programcreek.com/)
+* [宿宝臣在路上(blog)](http://dz.sdut.edu.cn/blog/subaochen/) [subaochen(GitHub)](https://github.com/subaochen)
+* [默墨(blog)](http://chenmingang.diandian.com/) [chenmingang(GitHub)](https://github.com/chenmingang)
+* [司青的专栏](http://blog.csdn.net/neosmith) [Neo Smith(GitHub)](https://github.com/wanghongfei)
 
 ##PHP
 
 ####Website & Blog
 
-[PHP之道](http://wulijun.github.io/php-the-right-way/)
+* [PHP之道](http://wulijun.github.io/php-the-right-way/)
