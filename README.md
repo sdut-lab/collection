@@ -13,6 +13,7 @@ Collection
 * [JavaCodeGeeks](http://www.javacodegeeks.com/)
 * [Jenkov](http://tutorials.jenkov.com/)
 * [ProgrammerCreek](http://www.programcreek.com/)
+* [QuicklyJava](http://www.quicklyjava.com/)
 * [并发编程网](http://ifeve.com/)
 * [宿宝臣在路上(blog)](http://dz.sdut.edu.cn/blog/subaochen/) [subaochen(GitHub)](https://github.com/subaochen)
 * [默墨(blog)](http://chenmingang.diandian.com/) [chenmingang(GitHub)](https://github.com/chenmingang)
