@@ -9,6 +9,9 @@ Collection
 
 * [CoreServlets](http://coreservlets.com/)
 * [ImportNew](http://www.importnew.com/)
+* [JavaBeat](http://www.javabeat.net/)
+* [JavaCodeGeeks](http://www.javacodegeeks.com/)
+* [Jenkov](http://tutorials.jenkov.com/)
 * [ProgrammerCreek](http://www.programcreek.com/)
 * [并发编程网](http://ifeve.com/)
 * [宿宝臣在路上(blog)](http://dz.sdut.edu.cn/blog/subaochen/) [subaochen(GitHub)](https://github.com/subaochen)
@@ -24,4 +27,5 @@ Collection
 ##Others
 
 * [Startup News](http://news.dbanotes.net/)
+* [TutorialPoint](http://www.tutorialspoint.com/)
 * [外刊IT评论](http://www.vaikan.com/)
