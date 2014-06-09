@@ -8,6 +8,7 @@ Collection
 ###Website & Blog
 
 * [CoreServlets](http://coreservlets.com/)
+* [HowToDoInJava](http://howtodoinjava.com/)
 * [ImportNew](http://www.importnew.com/)
 * [JavaBeat](http://www.javabeat.net/)
 * [JavaCodeGeeks](http://www.javacodegeeks.com/)
