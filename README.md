@@ -30,4 +30,5 @@ Collection
 
 * [Startup News](http://news.dbanotes.net/)
 * [TutorialPoint](http://www.tutorialspoint.com/)
+* [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
 * [外刊IT评论](http://www.vaikan.com/)
