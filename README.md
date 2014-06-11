@@ -10,6 +10,7 @@ Collection
 * [CoreServlets](http://coreservlets.com/)
 * [HowToDoInJava](http://howtodoinjava.com/)
 * [MasterTheBoss](http://www.mastertheboss.com/)
+* [MkYong](http://www.mkyong.com/)
 * [ImportNew](http://www.importnew.com/)
 * [JavaBeat](http://www.javabeat.net/)
 * [JavaCodeGeeks](http://www.javacodegeeks.com/)
