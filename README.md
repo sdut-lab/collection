@@ -14,6 +14,7 @@ Collection
 * [ImportNew](http://www.importnew.com/)
 * [JavaBeat](http://www.javabeat.net/)
 * [JavaCodeGeeks](http://www.javacodegeeks.com/)
+* [Java译站](http://it.deepinmind.com/)
 * [Jenkov](http://tutorials.jenkov.com/)
 * [ProgrammerCreek](http://www.programcreek.com/)
 * [QuicklyJava](http://www.quicklyjava.com/)
