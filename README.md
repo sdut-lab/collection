@@ -20,7 +20,9 @@ Collection
 * [QuicklyJava](http://www.quicklyjava.com/)
 * [ThoughtWorkers好声音](http://voice.thoughtworkers.org/)
 * [并发编程网](http://ifeve.com/)
+* [IBM developerWorks 中国](http://www.ibm.com/developerworks/cn/java/)
 * [宿宝臣在路上(blog)](http://dz.sdut.edu.cn/blog/subaochen/) [subaochen(GitHub)](https://github.com/subaochen)
+* [烂柯人](http://lankeren.com/)
 * [默墨(blog)](http://chenmingang.diandian.com/) [chenmingang(GitHub)](https://github.com/chenmingang)
 * [司青的专栏](http://blog.csdn.net/neosmith) [Neo Smith(GitHub)](https://github.com/wanghongfei)
 
